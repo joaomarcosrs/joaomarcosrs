@@ -3,9 +3,7 @@
 👋 Hey there!
 
 #### About Me!
-🔭 Currently, I have been steadily advancing in my Python studies, particularly with its web frameworks such as Django and Flask. While I've made significant progress in data engineering, I still consider myself a novice in this field. My background in economics has provided me with extensive expertise in data analysis and economic research.
-
-My objective is to streamline data collection for analysis, which is why I'm currently focused on bridging the gap between data and scientists/analysts. In addition, I possess knowledge of both relational and non-relational databases. I've also had success in developing small-scale machine learning models, drawing heavily from the mathematical and econometric principles I learned during my bachelor's studies in economics.
+🔭 Currently, I have been steadily advancing in my Python studies, particularly with its web frameworks such as Django and Flask. While I've made significant progress in software development and data science. My background in economics has provided me with extensive expertise in data analysis and mathematics.
 
 <br>
 
