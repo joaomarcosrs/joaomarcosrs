@@ -36,7 +36,7 @@ My objective is to streamline data collection for analysis, which is why I'm cur
 
 <div align="center" style="margin-bottom:200px">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosrs&repo=es-data-bridging&theme=buefy&hide_border=True)](https://github.com/joaomarcosrs/es-data-bridging)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosrs&repo=easy-document-chat&theme=buefy&hide_border=True)](https://github.com/joaomarcosrs/easy-document-chat.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosrs&repo=btreefilereader&theme=buefy&hide_border=True)](https://github.com/joaomarcosrs/btreefilereader)   
 
 </div>
