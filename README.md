@@ -3,7 +3,9 @@
 👋 Hey there!
 
 #### About Me!
-🔭 Currently, I have been steadily advancing in my Python studies, particularly with its web frameworks such as Django and Flask. While I've made significant progress in software development and data science. My background in economics has provided me with extensive expertise in data analysis and mathematics.
+🔭 Python developer with background in backend development. History of building and implementing web applications using the Django and Flask frameworks, as well as building APIs using the REST. Ability to integrate with databases, SQL and NoSQL, using both Django's own ORM and implementing the SQL Alchemy module together with Flask. 
+
+Experience with software development in proprietary cloud environments, as well as smaller implementations on Google Cloud Platform, including environment management, data storage and application containerisation using Docker. Adept at software development best practices, including version control with Git and CI/CD processes to ensure quality and efficiency in project delivery.
 
 <br>
 
