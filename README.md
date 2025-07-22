@@ -37,7 +37,7 @@ Experience with software development in proprietary cloud environments, as well 
 <div align="center" style="margin-bottom:200px">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosrs&repo=easy-document-chat&theme=buefy&hide_border=True)](https://github.com/joaomarcosrs/easy-document-chat.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosrs&repo=btreefilereader&theme=buefy&hide_border=True)](https://github.com/joaomarcosrs/btreefilereader)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosrs&repo=btreefilereader&theme=buefy&hide_border=True)](https://github.com/joaomarcosrs/NuboQAbot)   
 
 </div>
 
