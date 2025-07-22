@@ -3,9 +3,7 @@
 👋 Hey there!
 
 #### About Me!
-🔭 Python developer with background in backend development. History of building and implementing web applications using the Django and Flask frameworks, as well as building APIs using the REST. Ability to integrate with databases, SQL and NoSQL, using both Django's own ORM and implementing the SQL Alchemy module together with Flask. 
-
-Experience with software development in proprietary cloud environments, as well as smaller implementations on Google Cloud Platform, including environment management, data storage and application containerisation using Docker. Adept at software development best practices, including version control with Git and CI/CD processes to ensure quality and efficiency in project delivery.
+🔭 Software Engineer with experience in Python back-end development, specializing in the design and implementation of web applications, RESTful APIs, and automation systems using frameworks like Django and Flask. Proven ability to deliver scalable solutions across diverse domains, including telecom, internal project management platforms, and Video on Demand services, all deployed in Dockerized environments with CI/CD pipelines using GitLab CI. In addition to enterprise software projects, actively engaged in independent Machine Learning and Computer Vision initiatives, including experimentation with LLMs (e.g., LLaMA) and deep learning architectures such as EfficientNet for classification. Skilled in SQL and NoSQL databases, data cleaning and transformation (ETL), and exploratory data analysis. Familiar with software development in proprietary cloud environments, adhering to best practices in version control (Git), containerization (Docker), and continuous integration/delivery (CI/CD) to ensure quality and performance in every stage of the development lifecycle.
 
 <br>
 
